@@ -1,0 +1,4 @@
+autoindent
+==========
+
+sh indent.sh
